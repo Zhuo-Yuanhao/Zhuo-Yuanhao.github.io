@@ -23,7 +23,7 @@ repository               : "Zhuo-Yuanhao/Zhuo-Yuanhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # Add a profile image filename later, e.g. "profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Yuanhao “Martin” Zhuo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science and Tutor at the University of Wollongong."
