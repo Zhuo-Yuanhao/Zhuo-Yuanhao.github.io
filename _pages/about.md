@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Computer Science in the **School of Computing and Information Technology** at the **University of Wollongong (UOW)**, where I also work as a tutor. I am affiliated with the **Advanced Multimedia Research Laboratory (AMRL)** and the **Sustainable Buildings Research Centre (SBRC)**, and I am supervised by **Prof. Wanqing Li** and **Prof. Zhenjun Ma**.
+I am a PhD Candidate in Computer Science at the **University of Wollongong (UOW)**, where I also work as a tutor. I am affiliated with the **Advanced Multimedia Research Laboratory (AMRL)** and the **Sustainable Buildings Research Centre (SBRC)**, and I am supervised by **Prof. Wanqing Li** and **Prof. Zhenjun Ma**.
 
 My current research focuses on **machine learning for time-series modelling and forecasting**, with **building energy** as a primary application domain. I am currently working on a review of time-series forecasting, with particular interest in **multivariate time-series forecasting (MTSF)** and **time-series forecasting with exogenous variables (TSF-X)**. In the longer term, I am interested in **foundation models for time series**.
 
