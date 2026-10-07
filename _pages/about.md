@@ -13,6 +13,12 @@ My current research focuses on **machine learning for time-series modelling and 
 
 I also maintain a research interest in **bioinformatics**, particularly **multi-view learning and alignment for tabular biomedical data**, which formed an important part of my earlier research.
 
+## News
+
+- **Sep 2026** — Our paper *Mutual Predictability Decomposition: Learning Interpretable Cross-Set Structure via Bi-Directional Prediction* was accepted to **NeurIPS 2026**.
+- **Jul 2026** — Started my PhD in Computer Science at the **University of Wollongong**.
+- **Apr 2026** — Our paper *BFHD: Bidirectional Feature Harmonization Decomposition for Heterogeneous Clinical Assessments* was accepted to **IJCAI-ECAI 2026**.
+
 ## Research Interests
 
 - Machine learning
