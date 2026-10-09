@@ -172,6 +172,33 @@ include:
   - _pages
   - files
 exclude:
+  # Dormant pages and template examples: keep sources for future use, but do
+  # not publish them or include them in HTML/XML sitemaps and feeds.
+  # To activate a section, remove its entries below and update navigation.yml.
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
